@@ -1,4 +1,7 @@
-# SimplifiedBattleShip
-Created a simplified battle ship game using C
+# APS105
+Introduction to C programming course at UofT
 
-To play run main.c using compiler
+Two main projects: 
+
+1. Simplified Black Jack Game 
+2. Simplified Battleship Game
